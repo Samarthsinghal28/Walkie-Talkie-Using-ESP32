@@ -20,3 +20,11 @@ The software for the Walkie-Talkie project is developed using the Arduino IDE. T
 # Dependencies:
 1) https://github.com/cdjq/DFRobot_MSM261
 2) https://github.com/WeekendWarrior1/XTronical_XT_DAC_Audio_Mirror/blob/master/XT_DAC_Audio.h
+
+# Team Members:
+1) Saaransh Sharma
+2) Sagar Singh
+3) Saharsh Saxena
+4) Sai Pranav Nuti
+5) Samarth Singhal (SPOC)
+6) Sanat Gupta
